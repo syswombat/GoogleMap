@@ -37,9 +37,9 @@ function initialize() {
 
 // Location ----------//
   var ag41022LatLng = new google.maps.LatLng(47.283159,7.938896);
-  var agx2LatLng = new google.maps.LatLng(47.292858,7.922545);
-  var FuchsLatLng = new google.maps.LatLng(47.312627,7.991283);
-  var UeliLatLng = new google.maps.LatLng(47.271185,7.920752);
+//  var agx2LatLng = new google.maps.LatLng(47.292858,7.922545);
+//  var FuchsLatLng = new google.maps.LatLng(47.312627,7.991283);
+//  var UeliLatLng = new google.maps.LatLng(47.271185,7.920752);
 // Location ende -----// 
 
 // Image ------------ // 
