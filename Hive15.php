@@ -74,7 +74,7 @@ var fuchs = new google.maps.Marker
 // ag41022 Circel 1 ---------// 
   var ag41022cir1 = new google.maps.Circle({
       center:ag41022LatLng,
-      radius:1500, // meter
+      radius:1000, // meter
       strokeColor:"#F5ECCE",
       strokeOpacity:0.3,
       strokeWeight:2,
